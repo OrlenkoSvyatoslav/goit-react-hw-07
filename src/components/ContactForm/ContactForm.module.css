@@ -1,0 +1,10 @@
+.container {
+  border: 1px solid black;
+  width: 200px;
+  padding: 20px;
+}
+
+.btn {
+  padding: 5px;
+  margin-top: 10px;
+}
